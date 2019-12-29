@@ -1,0 +1,8 @@
+20x20 Cloth (No Drag)
+2019-03-06 18:23:08 - java
+Frames: 813 - Time: 13594ms - Avg: 59.806 - Min: 57 - Max: 62
+
+20x20 Cloth (With Drag) 
+2019-03-06 18:23:30 - java
+Frames: 1130 - Time: 18829ms - Avg: 60.014 - Min: 59 - Max: 61
+

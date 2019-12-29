@@ -1,0 +1,4 @@
+5,000 blades (5-7 segments) = 25,000-35,000 particles
+2019-03-06 18:10:48 - java
+Frames: 248 - Time: 5828ms - Avg: 42.553 - Min: 41 - Max: 44
+
